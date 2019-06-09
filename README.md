@@ -1,3 +1,3 @@
-# Algorithms 101
+# MySandBox
  
-A collection of commonly asked about data structures and algorithms for technical interviews
+My sandbox with algorithms and data structures
