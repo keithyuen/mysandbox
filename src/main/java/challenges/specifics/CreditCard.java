@@ -1,4 +1,4 @@
-package challenges.interviews;
+package challenges.specifics;
 
 import java.util.ArrayList;
 import java.util.Arrays;

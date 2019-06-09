@@ -1,4 +1,4 @@
-package challenges.interviews;
+package challenges.specifics;
 
 
 public class AmazonArrayMerger {

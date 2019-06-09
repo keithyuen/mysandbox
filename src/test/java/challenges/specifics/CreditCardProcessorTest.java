@@ -1,4 +1,4 @@
-package challenges.interviews;
+package challenges.specifics;
 
 import org.junit.Assert;
 import org.junit.Before;
